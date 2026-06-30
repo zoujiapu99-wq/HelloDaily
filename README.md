@@ -3,7 +3,7 @@
 
 ## 最新一期
 
-📅 **[《HelloDaily》第 003 期](content/HelloDaily003.md)** · 2026-06-30
+📅 **[《HelloDaily》第 004 期](content/HelloDaily004.md)** · 2026-06-30
 
 包含 10 个项目：odysseus、omnigent、ponytail、Mineradio、lottie、simplex-chat、free-for-dev、codebase-memory-mcp 等。
 
@@ -11,6 +11,7 @@
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
+| [第 004 期](content/HelloDaily004.md) |  |  |  |  |
 | [第 003 期](content/HelloDaily003.md) |  |  |  |  |
 | [第 002 期](content/HelloDaily002.md) |  |  |  |  |
 | [第 001 期](content/HelloDaily001.md) |  |  |  |  |
